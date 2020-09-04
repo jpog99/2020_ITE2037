@@ -1,0 +1,64 @@
+--------------Candidate------------
+Name: Mia
+Total Votes: 586
+Seoul: 194
+Daegu: 87
+Daejeon: 35
+Gwangju: 110
+Busan: 160
+--------------Candidate------------
+Name: Anthony
+Total Votes: 566
+Seoul: 196
+Daegu: 97
+Daejeon: 35
+Gwangju: 124
+Busan: 114
+--------------Candidate------------
+Name: Karen
+Total Votes: 535
+Seoul: 200
+Daegu: 91
+Daejeon: 33
+Gwangju: 82
+Busan: 129
+--------------Candidate------------
+Name: Lewis
+Total Votes: 533
+Seoul: 182
+Daegu: 100
+Daejeon: 50
+Gwangju: 94
+Busan: 107
+--------------Candidate------------
+Name: Mickey
+Total Votes: 523
+Seoul: 185
+Daegu: 91
+Daejeon: 32
+Gwangju: 83
+Busan: 132
+--------------Candidate------------
+Name: Ashley
+Total Votes: 521
+Seoul: 195
+Daegu: 74
+Daejeon: 29
+Gwangju: 105
+Busan: 118
+--------------Candidate------------
+Name: Katy
+Total Votes: 519
+Seoul: 180
+Daegu: 81
+Daejeon: 48
+Gwangju: 92
+Busan: 118
+--------------Candidate------------
+Name: Danny
+Total Votes: 517
+Seoul: 168
+Daegu: 79
+Daejeon: 38
+Gwangju: 110
+Busan: 122
